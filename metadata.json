@@ -1,0 +1,6 @@
+{
+  "name": "Aether PDF — Cinematic Workspace",
+  "description": "Futuristic cinematic PDF workspace featuring a relativistic black hole environment, dark glassmorphism showcase, and client-side document processing instruments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
